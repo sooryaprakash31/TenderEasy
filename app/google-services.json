@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "175461595113",
+    "firebase_url": "https://tender-261f1.firebaseio.com",
+    "project_id": "tender-261f1",
+    "storage_bucket": "tender-261f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175461595113:android:eb57bb8cd8565d23",
+        "android_client_info": {
+          "package_name": "com.sarjh.tender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175461595113-dqebc004ig14n9ncp5jcsooct67sifvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAlMTpqGFaWo5hfrFJruVzNmwjxG_EhLQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
